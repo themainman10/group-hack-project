@@ -11,6 +11,7 @@
 
 .main-head-sec{
 
+    text-align: center;
     margin-top: 2.5%;
     margin-bottom: 2.5%;
     margin-left: 10%;
@@ -20,12 +21,12 @@
 #head-img-1{
     width: 40%;
     border-radius: 80%;
-    top: 10px;
-    margin-left: 10%;
+
 }
 
-.head-sec-text{
-    float: left;
+
+.head-sec-img{
+    text-align: center;
 }
 
 .button {
@@ -42,7 +43,6 @@
   }
 
 .more-info{
-    margin-top: 5%;
     text-align: center;
     margin-bottom: 5%;
 }
